@@ -3,7 +3,7 @@ Contributors: dagcoin975
 Donate link: https://dagpay.io/
 Tags: Dagpay, dagcoin, cryptocurrency, payment, payments, merchant, merchants
 Requires at least: 4.0
-Tested up to: 5.2.3
+Tested up to: 5.5.3
 Stable tag: trunk
 Requires PHP: 5.6
 License: GPLv2 or later

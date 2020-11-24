@@ -26,12 +26,14 @@ require __DIR__ . '/vendor/autoload.php';
 use Dagpay\DagpayClient;
 
 /*
-Plugin Name: Dagpay for WooCommerce
-Plugin URI: https://dagpay.io/
-Description: Dagpay payment gateway plugin for accepting dagcoin payments.
-Author: Dagpay
-Author URI: https://dagpay.io/
-Version: 1.0.4
+* Plugin Name: Dagpay for WooCommerce
+* Plugin URI: https://dagpay.io/
+* Description: Dagpay payment gateway plugin for accepting dagcoin payments.
+* Author: Dagpay
+* Author URI: https://dagpay.io/
+* Version: 1.0.5
+* WC requires at least: 3.0.0
+* WC tested up to: 4.7.0
 */
 
 add_action('plugins_loaded', 'woocommerce_gateway_dagcoin_init', 0);
